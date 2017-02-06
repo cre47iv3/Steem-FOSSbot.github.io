@@ -1,0 +1,3 @@
+[submodule "what-tags"]
+	path = what-tags
+	url = https://github.com/Steem-FOSSbot/what-tags
